@@ -1,0 +1,6 @@
+This is the feature1 branch in the DEMO_GitHub_118 repository.
+This file (feature1.txt) was created as part of my first DevOps practical.
+I am learning how to work with branches in Git and GitHub.
+Branches help in managing different features separately without affecting the main branch.
+Once the work is completed, the feature branch can be merged into the main branch.
+This practice improves version control and collaborative development.
