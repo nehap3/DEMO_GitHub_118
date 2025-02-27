@@ -1,0 +1,1 @@
+A new text file was added through the feature2 branch and then merged into the master branch.
