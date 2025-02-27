@@ -1,0 +1,4 @@
+git add feature3.txt
+git status  # Check that the file is now staged
+git commit -m "Added feature3.txt"
+git push origin main  # Push to remote repository
